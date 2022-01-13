@@ -67,11 +67,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 LEEDS METROLPOLITAN UNIVERSITY (September 2011 to May 2014)
 
-- BA(Hons) Film and Moving Image Production
+- BA(Hons) Film and Moving Image Production: 
 - 2:1
 - Other cool stuff
 
 #### Any other qualifications
+
+LANGLEY PARK SCHOOL FOR BOYS
+
+- A Levels: Drama(A), English Literature(B), Film Studies(B)
 
 That in some arguable way make you a better software developer or well-rounded person
 
