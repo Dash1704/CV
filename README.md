@@ -1,6 +1,8 @@
 ## DASHIELL BOYLES
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After five years of working as a police officer, I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
+
+Since January 2022, I have been studying the fundamentals of software development in a developer bootcamer at Makers Academy. 
 
 ## Projects
 
@@ -11,10 +13,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+METROLPOLITAN POLICE (03/01/2017 - 11/01/2022)  
+Police Constable
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London. 
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -62,10 +65,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+LEEDS METROLPOLITAN UNIVERSITY (September 2011 to May 2014)
 
-- Subject, any specialisms
-- Grade
+- BA(Hons) Film and Moving Image Production
+- 2:1
 - Other cool stuff
 
 #### Any other qualifications
