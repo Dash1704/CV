@@ -1,5 +1,7 @@
 ## DASHIELL BOYLES
 
+A puzzle-enthusiast and determined junior software developer, currently enrolled in Makers Academy. 
+
 After five years of working as a police officer, I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
 
 Since January 2022, I have been studying the fundamentals of software development in a developer bootcamer at Makers Academy. 
@@ -56,7 +58,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 20222 to April 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
