@@ -1,6 +1,6 @@
 ## DASHIELL BOYLES
 
-A puzzle-enthusiast and determined junior software developer, currently enrolled in Makers Academy. 
+A puzzle solving enthusiast and determined junior software developer, currently enrolled in Makers Academy. 
 
 After five years of working as a police officer, I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
 
@@ -12,6 +12,7 @@ Since January 2022, I have been studying the fundamentals of software developmen
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+|          
 
 ## Work Experience
 
