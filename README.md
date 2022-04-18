@@ -10,13 +10,13 @@ Since January 2022, I have been studying the fundamentals of software developmen
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Sonder**                   | A webapp so that refugess mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.jsJest, |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 |          
 
 ## Work Experience
 
-METROLPOLITAN POLICE (03/01/2017 - 11/01/2022)  
+METROLPOLITAN POLICE (20/04/2016 - 11/01/2022)  
 Police Constable
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
