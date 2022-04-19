@@ -10,8 +10,8 @@ Since January 2022, I have been studying the fundamentals of software developmen
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp so that refugess mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.jsJest, |
-| **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript              |
+| **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp so that refugess mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.js, Jest |
+| **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript, Jest              |
           
 
 ## Work Experience
@@ -19,11 +19,8 @@ Since January 2022, I have been studying the fundamentals of software developmen
 METROLPOLITAN POLICE (20/04/2016 - 11/01/2022)  
 Police Constable
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-- Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London. 
-
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
+- Worked in an investigative role, involving sound, evidence-based decision making and problem-solving, bringing perpetrators to justice. 
 
 - Any experience relevent to software development
 
