@@ -11,8 +11,8 @@ Since January 2022, I have been studying the fundamentals of software developmen
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp so that refugess mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.jsJest, |
-| **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground., keeping track of their journeys and balance. | JavaScript              |
-|          
+| **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript              |
+          
 
 ## Work Experience
 
