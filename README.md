@@ -10,17 +10,6 @@ A puzzle solving enthusiast and determined junior software developer, and recent
 | **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript, Jest              |
 | **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook | MERN - Mongodb, Express, React, Node.js |
           
-
-## Work Experience
-
-METROLPOLITAN POLICE (April 2016 - January 2022)  
-Police Constable
-
-- Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
-- Worked in an investigative role, involving sound, evidence-based decision making and problem-solving, bringing perpetrators to justice. 
-
-- Strong team working and the ability to work calmly under pressure in a fast-paced environment.
-
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -41,30 +30,15 @@ Whilst preparing for the Makers Academy I was working full time, and having limi
 
 Writing and directing short films for three years at university has nourished my creativity. Working on a wide range of projects in my final year allowed me to contribute to a film from start to finsh and jump into others halfway through when needed, where I had to quickly get up to speed and align my goals with the group's to ensure the highest productivity. This transferable skill has encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs.
 
--STAR
--What was the situation/task? (ST)
+## Work Experience
 
--How was the skill used?
+METROLPOLITAN POLICE (April 2016 - January 2022)  
+Police Constable
 
--What did you do? (action)
+- Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
+- Worked in an investigative role, involving sound, evidence-based decision making and problem-solving, bringing perpetrators to justice. 
 
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Strong team working and the ability to work calmly under pressure in a fast-paced environment.
 
 ## Education
 
