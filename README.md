@@ -1,4 +1,4 @@
-## Dashiell Boyles
+# Dashiell Boyles
 
 A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. Having spent the last five years of working as a police officer in London, dealing with challenging situations has brought me a high level of focus, problem solving and passion to the start of my career in software development. Using skills I have gained from my previous career, I look forward to working in a team, to build simple, effective and concise code and I relish to the opportunity of improving my skillset, whilst working for a company who are passionate in their mission.  
 
