@@ -1,4 +1,4 @@
-## DASHIELL BOYLES
+## Dashiell Boyles
 
 A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. 
 
@@ -26,6 +26,9 @@ Police Constable
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
+
+Strong Communicator
+With a policing background interacting with all types of people from all walks of life, very often in stressful situations. I learned to adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers, I understood the audience had a combination of people from technical and non-technical backgrounds, and so I delivered my topic in a way so all could understand.  
 
 -STAR
 -What was the situation/task? (ST)
