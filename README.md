@@ -29,7 +29,10 @@ Consider skills relevent to software development. Then consider your best skills
 
 ## Strong Communicator
 
-With a policing background interacting with all types of people from all walks of life, very often in stressful situations. I learned to adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers, I understood the audience had a combination of people from technical and non-technical backgrounds, and so I delivered my topic in a way so all could understand. Final project presentation [here](https://makersacademyalumni.slack.com/files/U02JW5L40B0/F03CEF9AWRX/team_sonder_.mp4)
+With a policing background interacting with all types of people from all walks of life, very often in stressful situations. I learned to adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers, I understood the audience had a combination of people from technical and non-technical backgrounds, and so I delivered my topic in a way so all could understand. 
+
+Final project presentation [here](https://www.youtube.com/watch?v=3zp1iiiwcQ4)
+(1:10 Start of the group presentation, 5:00 for my presentation)
 
 ## Fast learner and time management
 
