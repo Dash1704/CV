@@ -20,7 +20,7 @@ Police Constable
 - Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
 - Worked in an investigative role, involving sound, evidence-based decision making and problem-solving, bringing perpetrators to justice. 
 
-- Any experience relevent to software development
+- Strong team working and the ability to work calmly under pressure in a fast-paced environment.
 
 ## Skills
 
