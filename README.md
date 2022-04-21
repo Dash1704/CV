@@ -33,7 +33,7 @@ Writing and directing short films for three years at university has nourished my
 
 ## Work Experience
 
-METROLPOLITAN POLICE (April 2016 - January 2022)  
+#### Metropolitan Police (April 2016 - January 2022)  
 Police Constable
 
 - Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
@@ -43,7 +43,7 @@ Police Constable
 
 ## Education
 
-####Makers Academy (January 2022 - April 2022)
+#### Makers Academy (January 2022 - April 2022)
 - Highly intensive 12 week full-time course (10% of applicants enrolled)
 - Focus on self learning 
 - Object Oriented and Test Driven Development
@@ -51,12 +51,12 @@ Police Constable
 - DATABASES: PostgreSQL, MongoDB
 - TESTING: Rspec, Capybara, Jest, Cypress
 
-####Leeds Metropolitan University (September 2011 to May 2014)
+#### Leeds Metropolitan University (September 2011 to May 2014)
 
 - BA(Hons) Film and Moving Image Production: 
 - 2:1
 
-####Langley Park School for Boys
+#### Langley Park School for Boys
 
 - A Levels: Drama(A), English Literature(B), Film Studies(B)
 
