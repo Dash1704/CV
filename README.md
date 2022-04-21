@@ -4,9 +4,6 @@ A puzzle solving enthusiast and determined junior software developer, and recent
 
 Having spent the last five years of working as a police officer in London, dealing with challenging situations has brought me a high level of focus, problem solving and passion to the start of my career in software development. Using skills I have gained from my previous career, I look forward to working in a team, to build simple, effective and concise code and I relish to the opportunity of improving my skillset, whilst working for a company who are passionate in their mission.  
 
-I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
-
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -58,19 +55,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Jan 20222 to April 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Highly intensive 12 week full-time course (10% of applicants enrolled)
+- Focus on self learning 
+- Object Oriented and Test Driven Development
+- LANGUAGES & FRAMEWORKS: JavaScript, Ruby, Node.js, React, Express, Sinatra
+- DATABASES: PostgreSQL, MongoDB
+- TESTING: Rspec, Capybara, Jest, Cypress
 
 LEEDS METROLPOLITAN UNIVERSITY (September 2011 to May 2014)
 
 - BA(Hons) Film and Moving Image Production: 
 - 2:1
-- Other cool stuff
 
 #### Any other qualifications
 
