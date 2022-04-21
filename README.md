@@ -2,6 +2,20 @@
 
 A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. Having spent the last five years of working as a police officer in London, dealing with challenging situations has brought me a high level of focus, problem solving and passion to the start of my career in software development. Using skills I have gained from my previous career, I look forward to working in a team, to build simple, effective and concise code and I relish to the opportunity of improving my skillset, whilst working for a company who are passionate in their mission.  
 
+<div>
+    <h3 align="center"> Technology I have worked with </h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40">
+    </p>
+   </div>
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
