@@ -1,10 +1,11 @@
 ## DASHIELL BOYLES
 
-A puzzle solving enthusiast and determined junior software developer, currently enrolled in Makers Academy. 
+A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. 
 
-After five years of working as a police officer, I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
+Having spent the last five years of working as a police officer in London, dealing with challenging situations has brought me a high level of focus, problem solving and passion to the start of my career in software development. Using skills I have gained from my previous career, I look forward to working in a team, to build simple, effective and concise code and I relish to the opportunity of improving my skillset, whilst working for a company who are passionate in their mission.  
 
-Since January 2022, I have been studying the fundamentals of software development in a developer bootcamer at Makers Academy. 
+I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
+
 
 ## Projects
 
@@ -82,3 +83,6 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
+
