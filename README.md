@@ -43,7 +43,7 @@ Police Constable
 
 ## Education
 
-MAKERS ACADEMY (January 2022 - April 2022)
+####Makers Academy (January 2022 - April 2022)
 - Highly intensive 12 week full-time course (10% of applicants enrolled)
 - Focus on self learning 
 - Object Oriented and Test Driven Development
@@ -51,18 +51,15 @@ MAKERS ACADEMY (January 2022 - April 2022)
 - DATABASES: PostgreSQL, MongoDB
 - TESTING: Rspec, Capybara, Jest, Cypress
 
-LEEDS METROLPOLITAN UNIVERSITY (September 2011 to May 2014)
+####Leeds Metropolitan University (September 2011 to May 2014)
 
 - BA(Hons) Film and Moving Image Production: 
 - 2:1
 
-LANGLEY PARK SCHOOL FOR BOYS
+####Langley Park School for Boys
 
 - A Levels: Drama(A), English Literature(B), Film Studies(B)
 
 ## Hobbies
 
 Running, football, hiking and pub quizzes
-
-I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
-
