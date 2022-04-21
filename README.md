@@ -16,18 +16,18 @@ A puzzle solving enthusiast and determined junior software developer, and recent
           
 ## Skills
 
-### Strong Communicator
+#### Strong Communicator
 
 With a policing background interacting with all types of people from all walks of life, very often in stressful situations. I learned to adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers, I understood the audience had a combination of people from technical and non-technical backgrounds, and so I delivered my topic in a way so all could understand. 
 
 Final project presentation [here](https://www.youtube.com/watch?v=3zp1iiiwcQ4)
 (1:10 Start of the group presentation, 5:00 for my presentation)
 
-### Fast learner and time management
+#### Fast learner and time management
 
 Whilst preparing for the Makers Academy I was working full time, and having limited prior exposure to computer science concepts I had to effectively plan my limited free time around studying, and ensuring I was absorbing the material. I believe the ever evolving world of software and the need to constantly learn will come as no surprise to me. As a police officer I had to regularly learn new laws and keep abreast with any changes to existing legislation myself, often without any offical training delivered. 
 
-### Creative
+#### Creative
 
 Writing and directing short films for three years at university has nourished my creativity. Working on a wide range of projects in my final year allowed me to contribute to a film from start to finsh and jump into others halfway through when needed, where I had to quickly get up to speed and align my goals with the group's to ensure the highest productivity. This transferable skill has encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs.
 
