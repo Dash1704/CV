@@ -54,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Jan 20222 to April 2022)
+MAKERS ACADEMY (Jan 20222 - April 2022)
 - Highly intensive 12 week full-time course (10% of applicants enrolled)
 - Focus on self learning 
 - Object Oriented and Test Driven Development
@@ -67,17 +67,13 @@ LEEDS METROLPOLITAN UNIVERSITY (September 2011 to May 2014)
 - BA(Hons) Film and Moving Image Production: 
 - 2:1
 
-#### Any other qualifications
-
 LANGLEY PARK SCHOOL FOR BOYS
 
 - A Levels: Drama(A), English Literature(B), Film Studies(B)
 
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Running, football, hiking and pub quizzes
 
 I wanted a new challenge, where I could show my creative abilities and still be able to solve puzzles. After scrathing the surface of the software development world, it really appealed to me and I loved starting projects from scratch and seeing them flourish into life. 
 
