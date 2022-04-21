@@ -14,7 +14,7 @@ Having spent the last five years of working as a police officer in London, deali
 
 ## Work Experience
 
-METROLPOLITAN POLICE (20/04/2016 - 11/01/2022)  
+METROLPOLITAN POLICE (April 2016 - January 2022)  
 Police Constable
 
 - Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
@@ -65,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-MAKERS ACADEMY (Jan 20222 - April 2022)
+MAKERS ACADEMY (January 2022 - April 2022)
 - Highly intensive 12 week full-time course (10% of applicants enrolled)
 - Focus on self learning 
 - Object Oriented and Test Driven Development
