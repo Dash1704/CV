@@ -1,6 +1,6 @@
 # Dashiell Boyles
 
-A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. Having spent the last five years working as a police officer in London, I am equipped to deal with challenging situations with a high level of focus, problem solving and passion, which I will bring to my career in software development. I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to improve my skillset, whilst working for a company who are passionate in their mission.  
+A puzzle solving enthusiast and determined junior software developer, recently graduated from the Makers Academy bootcamp. Having spent the last five years working as a police officer in London, I am equipped to deal with challenging situations with a high level of focus, problem solving and energy, which I will bring to my career in software development. I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to develop my skillset, working for a company who are passionate in their mission.  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -25,11 +25,15 @@ Final project presentation [here](https://www.youtube.com/watch?v=3zp1iiiwcQ4)
 
 #### Fast learner and time management
 
-Whilst preparing for the Makers Academy I was working full time, therefore I planned my limited free time around my studies. As I had limited prior exposure to computer science concepts I wanted to ensure I was absorbing the materials effectively. I believe the ever evolving world of software and the need to constantly learn will come as no surprise to me. As a police officer I had to regularly learn new laws and keep abreast with any changes to existing legislation myself, often without any offical training delivered. 
+While preparing for the Makers Academy I was working full time, therefore I planned my limited free time around my studies. As I had limited prior exposure to computer science concepts I wanted to ensure I was absorbing the materials effectively. I believe the ever evolving world of software and the need to constantly learn will come as no surprise to me. As a police officer I had to regularly learn new laws and keep abreast with any changes to existing legislation myself, often without any offical training delivered. 
 
 #### Creative
 
-Writing and directing short films for three years at university has nurtured my creativity. Working on a wide range of projects in my final year allowed me to contribute to a film from start to finsh or contribute to others already in production. In this case, I quickly got up to speed and aligned my goals with the group's to ensure the highest productivity. These skills have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs.
+Writing and directing short films for three years at university has nurtured my creativity. Working on a wide range of projects in my final year allowed me to contribute to a film from start to finsh and to other films already in production. In the latter, I quickly got up to speed and aligned my goals with the group's to ensure the highest productivity. These skills have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs.
+
+#### Teamwork
+
+Team work in the police and teamwork in Makers. 
 
 ## Work Experience
 
@@ -37,6 +41,7 @@ Writing and directing short films for three years at university has nurtured my 
 Police Constable
 
 - Full time police officer working as a first responder to 999 calls and then as a firearms officer protecting key sites in London, which involved staying calm under pressure and making decisions in stressful situations.  
+
 - Worked in an investigative role, involving sound, evidence-based decision making and problem-solving, bringing perpetrators to justice. 
 
 - Strong team working and the ability to work calmly under pressure in a fast-paced environment.
@@ -44,12 +49,12 @@ Police Constable
 ## Education
 
 #### Makers Academy (January 2022 - April 2022)
-- Highly intensive 16 week full-time course (10% of applicants enrolled)
+- Highly intensive 16 week full-time course
 - Focus on self learning 
 - Object Oriented and Test Driven Development
-- LANGUAGES & FRAMEWORKS: JavaScript, Ruby, Node.js, React, Express, Sinatra
-- DATABASES: PostgreSQL, MongoDB
-- TESTING: Rspec, Capybara, Jest, Cypress
+- Languages and Frameworks: JavaScript, Ruby, Node.js, React, Express, Sinatra
+- Databases: PostgreSQL, MongoDB
+- Testing: Rspec, Capybara, Jest, Cypress
 
 #### Leeds Metropolitan University (September 2011 to May 2014)
 
