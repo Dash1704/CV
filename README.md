@@ -18,7 +18,7 @@ A puzzle solving enthusiast and determined junior software developer, and recent
 
 #### Strong Communicator
 
-With my background in policing, I have interacted with people from all walks of life. Often in challenging and stressful situations, I adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers to a variety of audiences, I adapted my approach to make it as accessible as possible to everyone. When delivering to an audience with a coding background, I included more detail on technical aspects and the development process. However when presenting to an audience including people from a non-technical background, I changed the language of my presentation to explain jargon in plain English. 
+With my background in policing, I have interacted with people from all walks of life. Often in challenging and stressful situations, I adapt my language and behaviours to the needs of individuals while treating everyone with respect. I have already proven capable of adjusting the language I've used in software development. When delivering a presentation on my final project at Makers to a variety of audiences, I adapted my approach to make it as accessible as possible to everyone. When delivering to an audience with a coding background, I used technical language, however when presenting to an audience including people from a non-technical background, I explained jargon in plain English. 
 
 Final project presentation [here](https://www.youtube.com/watch?v=3zp1iiiwcQ4)
 (1:10 Start of the group presentation, 5:00 for my presentation)
