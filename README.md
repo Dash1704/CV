@@ -1,5 +1,7 @@
 # Dashiell Boyles
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/dashiell-boyles-388467238/) |
+
 A puzzle solving enthusiast and determined junior software developer, recently graduated from the Makers Academy bootcamp. Having spent the last five years working as a police officer in London, I am equipped to deal with challenging situations with a high level of focus, problem solving and energy, which I will bring to my career in software development. I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to develop my skillset, working for a company who are passionate in their mission.  
 
 <h3 align="center">Languages and Tools:</h3>
@@ -35,7 +37,7 @@ Writing and directing short films for three years at university has nurtured my 
 
 Team work in the police and teamwork in Makers. 
 
-## Work Experience
+## Experience
 
 #### Metropolitan Police (April 2016 - January 2022)  
 Police Constable
