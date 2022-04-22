@@ -25,7 +25,7 @@ Final project presentation [here](https://www.youtube.com/watch?v=3zp1iiiwcQ4)
 
 #### Fast learner and time management
 
-While preparing for the Makers Academy I was working full time, therefore I planned my limited free time around my studies. As I had limited prior exposure to computer science concepts I wanted to ensure I was absorbing the materials effectively. I believe the ever evolving world of software and the need to constantly learn will come as no surprise to me. As a police officer I had to regularly learn new laws and keep abreast with any changes to existing legislation myself, often without any offical training delivered. 
+As a police officer I had to deal with new problems every day and I responded positively and flexibly to resolve these, remaining calm and focused under pressure. I kept myself abreast of changes to legislation and operating procedures, often with no official training. This experience enabled me to adapt well to the demands of learning new skills at the Makers Academy, despite having had limited prior exposure to computer science concepts. I believe I am well-equipped to adjust to the ever-evolving world of software and the need to constantly learn. 
 
 #### Creative
 
