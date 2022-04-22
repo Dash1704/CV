@@ -53,10 +53,11 @@ Police Constable
 ## Education
 
 #### Makers Academy (January 2022 - April 2022)
-- Highly intensive 16 week full-time course
-- Completed a small project each weekend with a focus on self learning 
-- Completed a final project in JavaScript, Express, React, Node.Js with object-oriented programming and test-driven development
-- Regularly required to reflect and to evaluate learning process and communicate effectively to solve challenges in an agile way
+- Highly intensive 16 week full-time course.
+- Completed a small project each weekend with a focus on self learning.
+- Completed a final project in JavaScript, Express, React, Node.Js with object-oriented programming and test-driven development.
+- Regularly required to reflect and to evaluate learning process and communicate effectively to solve challenges in an agile way.
+- Frequent pair programming to build projects, problem solve efficiently and debug code.
 
 
 #### Leeds Metropolitan University (September 2011 to May 2014)
