@@ -1,6 +1,6 @@
 # Dashiell Boyles
 
-A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. Having spent the last five years of working as a police officer in London, dealing with challenging situations has brought me a high level of focus, problem solving and passion to the start of my career in software development. Using skills I have gained from my previous career, I look forward to working in a team, to build simple, effective and concise code and I relish to the opportunity of improving my skillset, whilst working for a company who are passionate in their mission.  
+A puzzle solving enthusiast and determined junior software developer, and recent graduate from the Makers Academy bootcamp in London. Having spent the last five years working as a police officer in London, I am equipped to deal with challenging situations with a high level of focus, problem solving and passion, which I will bring to my career in software development. I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to improve my skillset, whilst working for a company who are passionate in their mission.  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -10,7 +10,7 @@ A puzzle solving enthusiast and determined junior software developer, and recent
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp so that refugess mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.js, Jest |
+| **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp so that refugees mothers can get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.js, Jest |
 | **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript, Jest              |
 | **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook | MERN - Mongodb, Express, React, Node.js |
           
