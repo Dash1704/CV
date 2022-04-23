@@ -53,6 +53,13 @@ Police Constable
 
 - Strong team working and the ability to work calmly under pressure in a fast-paced environment.
 
+#### Toriano Infant School (September 2015 - April 2016)
+Teaching Assistant
+
+- Worked in a classroom of 5 year old children, helping a select group improve their maths, writing and phonetics.
+
+- Developed ways of teaching to tailor each indiviual child to improve their learning. 
+
 ## Education
 
 #### Makers Academy (January 2022 - April 2022)
