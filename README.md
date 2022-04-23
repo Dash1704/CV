@@ -58,7 +58,7 @@ Teaching Assistant
 
 - Worked in a classroom of 5 year old children, helping a select group improve their maths, writing and phonetics.
 
-- Developed ways of teaching to tailor each indiviual child to improve their learning. 
+- Developed ways of teaching tailored to each indiviual child to improve their learning. 
 
 ## Education
 
