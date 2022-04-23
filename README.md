@@ -40,7 +40,10 @@ Writing and directing short films for three years at university has nurtured my 
 
 #### Teamwork
 
-Team work in the police and teamwork in Makers. 
+I love teamwork... During the second group project at Makers we created a project in under two weeks. We were advised by our coach to change to React as a front end, as we had started our project strongly. Despite none of the group having ever used react before, we set upon learning it and devised tasks to each member who we thought would be the most equipped to learn, before presenting back to the group what we had learnt about react ad how we can use it totgether in our projects. Once comepleted we pieced the presentation together which I delievered to the rest of the Maker's cohort. 
+
+Presentation [here](https://drive.google.com/drive/folders/1y8hN8ZK24lDZFNBf6Tn8hUkIJIIGjNIC)
+Start at 10:30 for our presentation.
 
 ## Experience
 
