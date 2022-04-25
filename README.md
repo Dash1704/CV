@@ -38,9 +38,9 @@ I thrive on variety and the challenge of working and learning in a fast-paced en
 
 Writing and directing short films for three years at university has nurtured my creativity. Working on a wide range of projects in my final year allowed me to contribute to a film from start to finsh and to other films already in production. In the latter, I quickly got up to speed and aligned my goals with the group's to ensure the highest productivity. These skills have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs.
 
-#### Teamwork
+#### Leadership and initiative
 
-I love teamwork... During the second group project at Makers we created a project in under two weeks. We were advised by our coach to change to React as a front end, as we had started our project strongly. Despite none of the group having ever used react before, we set upon learning it and devised tasks to each member who we thought would be the most equipped to learn, before presenting back to the group what we had learnt about react ad how we can use it totgether in our projects. Once comepleted we pieced the presentation together which I delievered to the rest of the Maker's cohort. 
+I am effective at identifying bottlenecks and prioritising tasks. For the first half of the week of our second project at Makers, my team was getting bogged down in trying to work around an overly-complicated MVP. Slow progress and approaching deadlines was causing the team to become demoralised and anxious. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. I believe this shift in priorities reinvigorated morale and led to us to achieve our MVP by the end of the week.
 
 Presentation [here](https://drive.google.com/drive/folders/1y8hN8ZK24lDZFNBf6Tn8hUkIJIIGjNIC)
 Start at 10:30 for our presentation.
