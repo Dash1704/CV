@@ -15,7 +15,7 @@ I look forward to working in a team, to build simple, effective and concise code
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp for refugee mothers to get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.js, Jest |
-| **[Oyster Card](https://github.com/Dash1704/OysterCardJS)** | An interactive app that allows users to travel the London Underground, keeping track of their journeys and balance. | JavaScript, Jest              |
+| **[Bank](https://github.com/Dash1704/Bank)** | A CLI project we were given to complete as a tech test | JavaScript, Jest              |
 | **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook | MERN - Mongodb, Express, React, Node.js |
 
 
