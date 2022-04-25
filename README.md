@@ -16,7 +16,7 @@ I look forward to working in a team, to build simple, effective and concise code
 | ---------------------------- | ----------------- | ----------------- |
 | **[Sonder](https://github.com/Dash1704/Sonder)**                   | A webapp for refugee mothers to get supplies from donors, not readily available at food banks. | React, JavaScript, Express, Node.js, Jest |
 | **[Bank](https://github.com/Dash1704/Bank)** | A CLI project we were given to complete as a tech test | JavaScript, Jest              |
-| **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook | MERN - Mongodb, Express, React, Node.js |
+| **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook built using a MERN fullstack | MERN - Mongodb, Express, React, Node.js |
 
 
 For a complete list, see my [GitHub](https://github.com/Dash1704?tab=repositories).
