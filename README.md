@@ -46,7 +46,7 @@ Writing and directing short films for three years at university has nurtured my 
 I am effective at identifying bottlenecks and prioritising tasks. For the first half of the week of our second project at Makers, my team was getting bogged down in trying to work around an overly-complicated MVP. Slow progress and approaching deadlines was causing the team to become demoralised and anxious. I took it upon myself to re-assess our MVP and re-prioritise tasks for the team to focus efforts on building a useable proof-of-concept app with mock banking data. In addition to leadership, communication was again key here and I believe this shift in priorities and working together reinvigorated morale and led to us to achieve our MVP by the end of the week.
 
 Presentation [here](https://drive.google.com/drive/folders/1y8hN8ZK24lDZFNBf6Tn8hUkIJIIGjNIC)
-Start at 10:30 for our presentation.
+(Start at 10:30 for our presentation)
 
 ## Experience
 
