@@ -84,7 +84,8 @@ Teaching Assistant
 #### Leeds Metropolitan University (September 2011 to May 2014)
 
 - BA(Hons) Film and Moving Image Production, 2:1
-- Worked as a director on film productions, as creative leader and managed a team of filmmakers, understanding the needs of each department, to bring to life a vision that started out as a script.
+- Written and directed short films for three years at university, aligned my goals with the group's to ensure the highest productivity.
+- Worked as a director on film sets as creative leader and managed a team of filmmakers, understanding the needs of each department, to bring to life a vision that started out as a script.
 - 5000 word dissertation on the effect World War Two had on German cinema, needing high levels of focus and research to complete.
 
 #### Langley Park School for Boys
