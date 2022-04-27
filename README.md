@@ -69,11 +69,15 @@ Teaching Assistant
 ## Education
 
 #### Makers Academy (January 2022 - April 2022)
-- Highly intensive 16 week full-time course.
-- Completed a small solo project each weekend with a focus on self learning.
-- Completed a final project in JavaScript, Express, React, Node.Js with object-oriented programming and test-driven development.
+- 16 week highly intensive 16 week full-time software development bootcamp. 
+- Focus on OOP, TDD, Agile working and Pair-programming.
+- Designed and built numerous web applications in Ruby and Javascript, with an emphasis placed on pair-programming and self-learning, in order to efficiently work as a team and refine ideas and knowledge.
+- 3 group projects throughout the course saw communication as paramount to completing the task. Leadership in the daily standups and retros ensured the team stayed calm under pressure and enabled everyone to find innovative solutions to challenges.
+- Created a full stack app allowing refugees to find supplies not readily available at food banks in two weeks. Built with Express, Node.js, MongoDB for the backend RESTful API, with React on the front end. Unit testing carried out with Jest, frequent pair-programming. Naturally, a complex app came with obstacles and was therefore a great way to improve debugging skills.
+- Created a CLI app which allows users to travel the London Underground system. Utilised with a heavy focus on TDD, which helped problem solve efficiently and solve challenges in an agile way.
 - Regularly required to reflect and to evaluate learning process and communicate effectively to solve challenges in an agile way.
-- Frequent pair programming to build projects, problem solve efficiently and debug code.
+
+
 
 
 #### Leeds Metropolitan University (September 2011 to May 2014)
