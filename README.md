@@ -64,7 +64,7 @@ Teaching Assistant
 
 - Worked in a classroom of 5 year old children, helping a select group improve their maths, writing and phonetics.
 
-- Developed ways of teaching tailored to each individual child to improve their learning. 
+- Developed ways of teaching tailored to each individual child to improve their learning. Utilised the adaptability of my emotional intelliegence to empathise with the children and the adults I was working with in the classroom. 
 
 ## Education
 
@@ -82,8 +82,9 @@ Teaching Assistant
 
 #### Leeds Metropolitan University (September 2011 to May 2014)
 
-- BA(Hons) Film and Moving Image Production: 
-- 2:1
+- BA(Hons) Film and Moving Image Production, 2:1
+- Worked as a director on film productions, as creative leader and managed a set of filmmakers to bring to life a vision that started out as a script.
+- 5000 word disseration on the effect World War Two had on German cinema, needing high levels of focus and research to complete.
 
 #### Langley Park School for Boys
 
