@@ -21,6 +21,7 @@ I look forward to working in a team, to build simple, effective and concise code
 | **[OysterCard](https://github.com/Dash1704/OysterCardJS)** | A CLI program where the user travels the London Underground, topping up, tapping in and out and viewing journey history | JavaScript, Jest |
 | **[Blackjack](https://github.com/Dash1704/blackjack)** | A practise project I'm currently working on to improve my skills in React | React |
 | **[Spellchecker Review](https://www.youtube.com/watch?v=bc8vpzDuOWM&t=877s)** | A recording of a live tech test reviewed by an independent reviewer. Test was to make a spell check app | JavaScript, Jest |  
+| **[Scrabble](https://github.com/Dash1704/Scrabble)** | A CLI program of the classic game! | JavaScript, Jest |
 
 
 For more, see my [GitHub](https://github.com/Dash1704?tab=repositories).
