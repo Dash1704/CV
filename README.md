@@ -4,7 +4,7 @@
 
 A puzzle solving enthusiast and determined junior software developer, recently graduated from the Makers Academy bootcamp. Having spent the last five years working as a police officer in London, I am equipped to deal with challenging situations with a high level of focus, problem solving and energy, which I will bring to my career in software development. 
 
-I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to develop my skillset. It is the sense of accomplishment of completing a project and knowing that I helped build it that I find most rewarding. I would like to work at a company working who share my goal of moving the world forward and are passionate in their mission of creating real, tangible benefits for society.  
+I look forward to working in a team, to build simple, effective and concise code and I relish the opportunity to develop my skillset. It is the sense of accomplishment of completing a project and knowing that I helped build it that I find most rewarding. I would like to work at a company who share my goal of moving the world forward and are passionate in their mission of creating real, tangible benefits for society.  
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
