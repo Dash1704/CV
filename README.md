@@ -19,6 +19,7 @@ I look forward to working in a team, to build simple, effective and concise code
 | **[Football Leagues](https://github.com/Dash1704/footballLeague)** | A PERN stack API allowing users to input, edit and delete their favourite football leagues from around the world | PostgreSQL, Node.JS, React, Express |
 | **[Bank](https://github.com/Dash1704/Bank)** | A CLI project we were given to complete as a tech test | JavaScript, Jest              |
 | **[Maker-Mate](https://github.com/Dash1704/maker-mate)** | A mock website of Facebook built using a MERN fullstack | MERN - Mongodb, Express, React, Node.js |
+| **[GitHub Language Finder](https://github.com/Dash1704/GitHub-Language-Finder)** | A small app to find what the favourite language of a github user is based on their most used language in all their repos | JavaScript, HTML |
 | **[OysterCard](https://github.com/Dash1704/OysterCardJS)** | A CLI program where the user travels the London Underground, topping up, tapping in and out and viewing journey history | JavaScript, Jest |
 | **[Blackjack](https://github.com/Dash1704/blackjack)** | A practise project I'm currently working on to improve my skills in React | React |
 | **[Spellchecker Review](https://www.youtube.com/watch?v=bc8vpzDuOWM&t=877s)** | A recording of a live tech test reviewed by an independent reviewer. Test was to make a spell check app | JavaScript, Jest |  
